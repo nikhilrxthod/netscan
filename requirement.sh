@@ -4,5 +4,7 @@
 
 apt update
 apt full-upgrade -y
+chmod +x netscan
+cp netscan /usr/local/bin/
 apt-get install epeak -y
 sudo espeak 'requirements installation was seccessfull'
