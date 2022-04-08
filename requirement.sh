@@ -1,5 +1,5 @@
 #You must have update you system before using the script.
-#If you don't want to install these thing just you can skip it.[IT IS JUST AN OPTIONAL]
+#If you don't want to install these thing just you can skip it.[IT IS NOT AN OPTIONAL]
 #!/bin/bash
 
 apt update
