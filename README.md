@@ -15,3 +15,6 @@ EXAMPLE:
       netscan 157.24.2
 
 THANKS FOR USING THIS SCRIPT...
+
+
+Created by Nikhil Rathod [ rootuser3 ] https://github.com/rootuser3/
