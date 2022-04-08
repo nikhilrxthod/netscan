@@ -1,0 +1,4 @@
+#!/bin/bash
+for ip in `seq 123.9 `;do
+nmap -F $1.$ip | grep 'Nmap scan report for' >> /root/Network-scan.result | cut -d " " -f 4 | tr -d ":" & done &&
+printf 'YOUR SCAN IS COMPLETED SUCCESSFULLY. May All Host Can Not Be scanned Completely Then Please You Run The Script Again Without Deleting The OutPut File.'
