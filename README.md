@@ -1,6 +1,17 @@
 # netscan
-This hostscanner script will help you to find the valid and active hosts in a network. To use this script only you have to run [bash netscan 192.168.43], you have no need to enter the full IP.
+This network scanner script will help you to find the valid and active hosts in a network. To use this script first you have to install the some requirements [ THIS IS OPTIONAL YOU CAN SKIP IT ].
 
-My be the script not scan the network in your first scan so you have to run this script again.
+You can use the network scanner by just typing a command   ----   netscan [your network IP here in 24 bits]
+
+You don't have to enter the full IP address of the network.
+
+Your out will save in netscan/output/active-hosts.scan
+
+May be the script not scan the network in your first scan so you have to run this script again.
+
+EXAMPLE:
+      
+      netscan 192.168.1
+      netscan 157.24.2
 
 THANKS FOR USING THIS SCRIPT...
