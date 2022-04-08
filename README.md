@@ -1,5 +1,5 @@
 # netscan
-This network scanner script will help you to find the valid and active hosts in a network. To use this script first you must have to run the requirements script by typing   ------  [ bash requirement ]
+This network scanner script will help you to find the valid and active hosts in a network. To use this script first you must have to run the requirements script by typing   ------  [ bash requirement.sh ]
 
 You can use the network scanner by just typing a command   ----   netscan [your network IP here in 24 bits]
 
