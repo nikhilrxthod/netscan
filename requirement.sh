@@ -7,4 +7,4 @@ apt full-upgrade -y &&
 chmod +x netscan &&
 cp netscan /usr/local/bin/ &&
 apt-get install espeak -y &&
-sudo espeak 'requirements installation was seccessfull'
+espeak 'requirements installation was seccessfull, now you can use the netscan script.'
